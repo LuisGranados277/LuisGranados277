@@ -2,7 +2,8 @@
 - 👀 I’m interested in  Data Science y Big Data.
 - 🌱 I’m currently learning  Enseñanza de matemática; Power BI y Azure.
 - 💞️ I’m looking to collaborate on  Azure y Power BI
-- 📫 How to reach me  vce02769@innovaccion.mx
+- 📫 How to reach me  lgranadosmarmolejo@nube.unadmexico.mx 
+-
 Saludos Cordiales
 
 
